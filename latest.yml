@@ -1,0 +1,8 @@
+version: 1.0.2
+files:
+  - url: https://github.com/TellezDG/bw-pos-updates/releases/download/v1.0.2/BW-POS-Setup-1.0.2.exe
+    sha512: +zAEKdVOmqpk0T4P5N7uSpHlJcK0n/j1FmPSngRx8LyqsO8N8DsTbWUxGAiQHPjwWZocuLMtQ40hDmhdjJEXeA==
+    size: 90680146
+path: https://github.com/TellezDG/bw-pos-updates/releases/download/v1.0.2/BW-POS-Setup-1.0.2.exe
+sha512: +zAEKdVOmqpk0T4P5N7uSpHlJcK0n/j1FmPSngRx8LyqsO8N8DsTbWUxGAiQHPjwWZocuLMtQ40hDmhdjJEXeA==
+releaseDate: '2026-08-22T04:41:05.220Z'
